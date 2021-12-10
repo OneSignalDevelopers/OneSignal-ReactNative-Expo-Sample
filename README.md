@@ -1,4 +1,4 @@
-<h1 align="center">Onesignal ReactNative Expo</h1>
+<h1 align="center">OneSignal ReactNative Expo</h1>
 <p>
   <a href="https://github.com/OneSignal/onesignal-expo-plugin/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
