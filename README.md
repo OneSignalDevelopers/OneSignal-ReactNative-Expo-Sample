@@ -35,7 +35,7 @@ After installing the onseignal-expo-plugin, install now the react-native-onesign
 yarn add react-native-onesignal
 ```
 
-If you frogot to run the following command after you have built your project, you can fix this by running `expo prebuild --clean`. This should delete android and ios and do a clean native build, then run the `yarn add react-native-onesignal`.
+If you forgot to run the following command after you have built your project, you can fix this by running `npx expo prebuild --clean`. This should delete android and ios and do a clean native build, then run the `yarn add react-native-onesignal`.
 
 ## Configuration in app.json / app.config.js
 ### Plugin
@@ -108,13 +108,13 @@ OneSignal.setAppId("YOUR-ONESIGNAL-APP-ID");
 
 ## Run
 ```sh
-$ expo prebuild
+$ npx expo prebuild
 
 # Build your native iOS project
-$ expo run:ios
+$ npx expo run:ios
 
 # Build your native Android project
-$ expo run:android
+$ npx expo run:android
 ```
 ---
 
