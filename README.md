@@ -23,7 +23,7 @@ This plugin is an [Expo Config Plugin](https://docs.expo.dev/guides/config-plugi
 ## Install
 
 ```sh
-expo install onesignal-expo-plugin
+npx expo install onesignal-expo-plugin
 ```
 
 **Note:**
